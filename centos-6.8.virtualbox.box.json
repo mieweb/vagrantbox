@@ -1,0 +1,19 @@
+
+{
+  "description": "CMM centos-6.8 Vagrant Box",
+  "name": "mie/centos-6.8",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "providers": [
+        {
+          "checksum": "eede7949b8483f0c771d354be98cde0104ca92a5eec2a6c0ed917417c79c945d",
+          "checksum_type": "sha256",
+          "name": "virtualbox",
+          "url": "https://github.com/mieweb/vagrantbox/raw/master/centos-6.8.virtualbox.box"
+        }
+      ]
+    }
+  ]
+}
+
