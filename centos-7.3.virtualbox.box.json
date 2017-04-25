@@ -1,13 +1,13 @@
 
 {
-  "description": "CMM centos-7.3 Vagrant Box",
+  "description": "CMM CentOS-7.3 Vagrant Box",
   "name": "mie/centos-7.3",
   "versions": [
     {
       "version": "1.0.0",
       "providers": [
         {
-          "checksum": "",
+          "checksum": "3245fd58b2933dce57edc85013177fac65f49139965e0bf12789c2a9c1e40e03",
           "checksum_type": "sha256",
           "name": "virtualbox",
           "url": "https://github.com/mieweb/vagrantbox/raw/master/centos-7.3.virtualbox.box"
