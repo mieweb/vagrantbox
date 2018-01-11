@@ -7,7 +7,7 @@
       "version": "1.0.0",
       "providers": [
         {
-          "checksum": "9f22eec29be49a1f495e18e5642018ba06476bd7267d230932c6dace3e6bee47",
+          "checksum": "4ca6953b0b4a2f114afa132f2925819e0f8c894f4ff141dba1aee66d63cd3ae0",
           "checksum_type": "sha256",
           "name": "virtualbox",
           "url": "https://cdn.rawgit.com/mieweb/vagrantbox/master/centos-7.3-ceph.virtualbox.box"
