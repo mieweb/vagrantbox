@@ -1,0 +1,18 @@
+
+{
+  "description": "Ceph CentOS-7.3 Vagrant Box",
+  "name": "mie/centos-7.3-ceph",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "providers": [
+        {
+          "checksum": "9f22eec29be49a1f495e18e5642018ba06476bd7267d230932c6dace3e6bee47",
+          "checksum_type": "sha256",
+          "name": "virtualbox",
+          "url": "https://cdn.rawgit.com/mieweb/vagrantbox/master/centos-7.3-ceph.virtualbox.box"
+        }
+      ]
+    }
+  ]
+}
